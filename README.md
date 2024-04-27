@@ -1,5 +1,5 @@
-<H3>Name :Pavan Kishore.M</H3>
-<H3>Register no : 212221230076</H3>
+<H3>Name :SENTHAMIL SELVAN G</H3>
+<H3>Register no : 212222230139</H3>
 <H3>EX. NO.5</H3>
 <H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
@@ -79,7 +79,7 @@ plt.legend()
 plt.show()
 ```
 
-##Output:
+Output:
 ![image](https://github.com/Senthamil1412/Ex-5--AAI/assets/119120228/b1253abf-a27e-4719-bfc5-b6713e0ed37f)
 
 
