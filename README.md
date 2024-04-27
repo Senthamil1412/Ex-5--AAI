@@ -79,7 +79,7 @@ plt.legend()
 plt.show()
 ```
 
-<H3>Output:</H3>
+##Output:
 ![image](https://github.com/Senthamil1412/Ex-5--AAI/assets/119120228/b1253abf-a27e-4719-bfc5-b6713e0ed37f)
 
 
